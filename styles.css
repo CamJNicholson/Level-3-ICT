@@ -16,8 +16,8 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  border-bottom: solid 1px rgb(255, 11, 11);
+  background-color: rgb(36, 36, 36);
 }
 
 nav a {
@@ -42,7 +42,7 @@ main {
 
 h1 {
   font-weight: bold;
-  style="text-align: right;
+  text-align: center;
   font-size: 1.5rem;
   color: blue;
   
